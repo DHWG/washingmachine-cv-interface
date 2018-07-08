@@ -128,4 +128,7 @@ ENV/
 # mkdocs documentation
 /site
 
+# custom
+washing_machine_cam/*
+
 # End of https://www.gitignore.io/api/osx,python
